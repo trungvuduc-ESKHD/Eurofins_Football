@@ -303,6 +303,3 @@ def initialize_data():
 
     # Update summary
     update_summary()
-
-    # Update summary
-    update_summary()
